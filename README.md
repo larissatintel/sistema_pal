@@ -1,2 +1,0 @@
-# sistema_pal
-cakephp
